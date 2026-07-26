@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/212430748?v=4" width="160" style="border-radius:50%;" />
+<img src="./bg.png" width="160" style="border-radius:50%;" />
 
 <h1>
 👋 Hi, I'm Bismillah Khan
