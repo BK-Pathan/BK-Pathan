@@ -174,21 +174,18 @@ AI automation system for finding business opportunities.
 # 📊 GitHub Analytics
 
 
-# 📊 GitHub Analytics
-
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BK-Pathan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=BK-Pathan&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Pathan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </p>
 
