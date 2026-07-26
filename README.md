@@ -1,17 +1,17 @@
-<!-- HEADER -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Bismillah%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://avatars.githubusercontent.com/u/212430748?v=4" width="160" style="border-radius:50%;" />
 
-</div>
-
-
-<div align="center">
-
-# 👋 Hi, I'm Bismillah Khan
+<h1>
+👋 Hi, I'm Bismillah Khan
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Vue+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies&center=true&width=600&height=45">
+
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </div>
 
