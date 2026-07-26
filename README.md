@@ -194,7 +194,8 @@ AI automation system for finding business opportunities.
 # 🐍 Contribution Snake
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/BK-Pathan/BK-Pathan/gh-pages/github-contribution-grid-snake.svg">
+<p align="center"> <img src="https://raw.githubusercontent.com/BK-Pathan/BK-Pathan/gh-pages/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 ---
