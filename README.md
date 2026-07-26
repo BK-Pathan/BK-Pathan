@@ -153,8 +153,7 @@ AI automation system for finding business opportunities.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/M-Huzaifa-Awan/M-Huzaifa-Awan/output/github-contribution-grid-snake.svg">
-
+<img src="https://raw.githubusercontent.com/BK-Pathan/BK-Pathan/output/github-contribution-grid-snake.svg">
 </p>
 
 
