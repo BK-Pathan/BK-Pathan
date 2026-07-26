@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Bismillah%20Khan%20&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Bismillah%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -17,13 +17,16 @@
 
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=BK-Pathan&label=Profile%20Views&color=blue&style=flat"/>
+
 </p>
 
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
+
 
 ```yaml
 name: Bismillah Khan
@@ -32,7 +35,7 @@ role: Full Stack Developer
 
 passion:
   - Building scalable web applications
-  - Clean UI/UX
+  - Creating modern UI/UX
   - Backend architecture
 
 currently_learning:
@@ -42,87 +45,7 @@ currently_learning:
 
 location:
   - Pakistan
-```
 
----
-
-# 💻 Tech Stack
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,docker"/>
-
-</p>
-
-
----
-
-# 🔥 Currently Building
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3>🏥 Hospital Management System</h3>
-
-Full Stack healthcare platform.
-
-Stack:
-
-Vue 3  
-Node.js  
-Express  
-MongoDB  
-
-</td>
-
-
-<td width="50%">
-
-<h3>🌱 FarmToTable</h3>
-
-Marketplace platform connecting farmers and customers.
-
-Stack:
-
-React  
-Node.js  
-MongoDB  
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td>
-
-<h3>🚆 Railway Management System</h3>
-
-Management software for railway operations.
-
-</td>
-
-
-<td>
-
-<h3>🤖 AI Lead Generation Agent</h3>
-
-AI automation system for finding business opportunities.
-
-</td>
-
-</tr>
-
-</table>
-
-
----
 
 # 📊 GitHub Analytics
 
@@ -132,7 +55,7 @@ AI automation system for finding business opportunities.
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BK-Pathan&show_icons=true&theme=tokyonight"/>
 
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Huzaifa-Awan&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BK-Pathan&theme=tokyonight"/>
 
 </p>
 
@@ -144,20 +67,14 @@ AI automation system for finding business opportunities.
 
 </p>
 
-
-
----
-
 # 🐍 Contribution Snake
 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/BK-Pathan/BismillahKhan/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/BK-Pathan/BismillahKhan/output/github-contribution-grid-snake.svg" />
+
 </p>
-
-
----
 
 # 🌐 Connect With Me
 
@@ -165,7 +82,7 @@ AI automation system for finding business opportunities.
 <p align="center">
 
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/bismillah-khan-23876a2b1/)">
+<a href="https://www.linkedin.com/in/bismillah-khan-23876a2b1/">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 
@@ -180,15 +97,3 @@ AI automation system for finding business opportunities.
 
 
 </p>
-
-
----
-
-<div align="center">
-
-### 💙 "Code. Create. Improve. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-
-</div>
-
