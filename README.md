@@ -45,17 +45,143 @@ currently_learning:
 
 location:
   - Pakistan
+```
 
+---
+
+# 💻 Tech Stack
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,mongodb,mysql,tailwind,git,github,docker,vscode"/>
+
+</p>
+
+
+---
+
+# 🔥 Currently Building
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🏥 Hospital Management System
+
+Full Stack healthcare platform.
+
+**Stack**
+
+- Vue 3
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+
+
+Features:
+
+✅ Patient Management  
+✅ Doctor Dashboard  
+✅ Appointment System  
+✅ Real-time Notifications  
+
+
+</td>
+
+
+<td width="50%">
+
+
+## 🌱 FarmToTable
+
+Marketplace platform connecting farmers and customers.
+
+
+**Stack**
+
+- React
+- Node.js
+- MongoDB
+
+
+Features:
+
+✅ Product Management  
+✅ Authentication  
+✅ Marketplace System  
+
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+
+## 🚆 Railway Management System
+
+
+Management software for railway operations.
+
+
+**Stack**
+
+- PHP
+- MySQL
+- Bootstrap
+
+
+</td>
+
+
+
+<td width="50%">
+
+
+## 🤖 AI Lead Generation Agent
+
+
+AI automation system for finding business opportunities.
+
+
+**Stack**
+
+- Python
+- AI APIs
+- Web Scraping
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
 
 # 📊 GitHub Analytics
 
 
 <p align="center">
 
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BK-Pathan&show_icons=true&theme=tokyonight"/>
 
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BK-Pathan&theme=tokyonight"/>
+
 
 </p>
 
@@ -63,18 +189,26 @@ location:
 
 <p align="center">
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Pathan&layout=compact&theme=tokyonight"/>
 
+
 </p>
+
+
+---
 
 # 🐍 Contribution Snake
 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/BK-Pathan/BismillahKhan/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/BK-Pathan/BismillahKhan/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
+
+---
 
 # 🌐 Connect With Me
 
@@ -84,16 +218,35 @@ location:
 
 <a href="https://www.linkedin.com/in/bismillah-khan-23876a2b1/">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 
+
 <a href="https://github.com/BK-Pathan">
 
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 
 </a>
 
 
 </p>
+
+
+---
+
+<div align="center">
+
+### 💙 "Code. Create. Improve. Repeat."
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+
+</div>
