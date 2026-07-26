@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=M-Huzaifa-Awan&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=BK-Pathan&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 
@@ -129,7 +129,7 @@ AI automation system for finding business opportunities.
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=M-Huzaifa-Awan&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BK-Pathan&show_icons=true&theme=tokyonight"/>
 
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Huzaifa-Awan&theme=tokyonight"/>
@@ -140,7 +140,7 @@ AI automation system for finding business opportunities.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Huzaifa-Awan&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Pathan&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -153,7 +153,7 @@ AI automation system for finding business opportunities.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/BK-Pathan/BK-Pathan/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/BK-Pathan/BismillahKhan/output/github-contribution-grid-snake.svg">
 </p>
 
 
